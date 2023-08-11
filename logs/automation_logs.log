@@ -1,0 +1,37 @@
+2023-05-02 17:25:20,991 [main] INFO java.lang.Class - *********Starting test suite************
+2023-05-02 17:25:20,994 [main] INFO java.lang.Class - Moving old test results to archive folder
+2023-05-02 17:25:21,027 [main] INFO java.lang.Class - Moved test reports to archive
+2023-05-02 17:25:49,823 [main] INFO java.lang.Class - Starting test for : verifyHomePage
+2023-05-02 17:25:53,028 [main] INFO java.lang.Class - Test Case Passed : verifyHomePage
+2023-05-02 17:26:31,586 [main] INFO java.lang.Class - Starting test for : verifySignIn
+2023-05-02 17:26:36,400 [main] INFO java.lang.Class - Test Case Passed : verifySignIn
+2023-05-02 17:26:36,863 [main] INFO java.lang.Class - Test report generated
+2023-05-03 18:08:43,160 [main] INFO java.lang.Class - *********Starting test suite************
+2023-05-03 18:08:43,175 [main] INFO java.lang.Class - Moving old test results to archive folder
+2023-05-03 18:08:43,218 [main] INFO java.lang.Class - Moved test reports to archive
+2023-05-03 18:10:25,660 [main] INFO java.lang.Class - *********Starting test suite************
+2023-05-03 18:10:25,663 [main] INFO java.lang.Class - Moving old test results to archive folder
+2023-05-03 18:10:25,669 [main] INFO java.lang.Class - Moved test reports to archive
+2023-05-03 18:10:34,761 [TestNG-test=Test-3] INFO java.lang.Class - Starting test for : verifySearch
+2023-05-03 18:10:35,967 [TestNG-test=Test-5] INFO java.lang.Class - Starting test for : verifySignIn
+2023-05-03 18:10:36,113 [TestNG-test=Test-1] INFO java.lang.Class - Starting test for : verifyHomePage
+2023-05-03 18:10:36,204 [TestNG-test=Test-4] INFO java.lang.Class - Starting test for : verifyCreateNewAccount
+2023-05-03 18:10:38,911 [TestNG-test=Test-3] INFO java.lang.Class - Test Case Passed : verifySearch
+2023-05-03 18:10:39,373 [TestNG-test=Test-1] INFO java.lang.Class - Test Case Passed : verifyHomePage
+2023-05-03 18:10:42,192 [TestNG-test=Test-5] INFO java.lang.Class - Test Case Passed : verifySignIn
+2023-05-03 18:10:44,068 [TestNG-test=Test-4] INFO java.lang.Class - Test Case Passed : verifyCreateNewAccount
+2023-05-03 18:10:45,461 [TestNG-test=Test-3] INFO java.lang.Class - Starting test for : verifySearch
+2023-05-03 18:10:47,198 [TestNG-test=Test-1] INFO java.lang.Class - Starting test for : verifyAddToCart
+2023-05-03 18:10:48,983 [TestNG-test=Test-3] INFO java.lang.Class - Test Case Passed : verifySearch
+2023-05-03 18:10:50,071 [TestNG-test=Test-5] INFO java.lang.Class - Starting test for : navigateToTrainingVideoDownload
+2023-05-03 18:10:51,019 [TestNG-test=Test-4] INFO java.lang.Class - Starting test for : verifyCreateNewAccount
+2023-05-03 18:10:52,980 [TestNG-test=Test-5] INFO java.lang.Class - Test Case Passed : navigateToTrainingVideoDownload
+2023-05-03 18:10:54,550 [TestNG-test=Test-2] INFO java.lang.Class - Starting test for : navigateToWomenSubMenuJackets
+2023-05-03 18:10:55,488 [TestNG-test=Test-1] INFO java.lang.Class - Test Case Passed : verifyAddToCart
+2023-05-03 18:10:56,383 [TestNG-test=Test-4] INFO java.lang.Class - Test Case Passed : verifyCreateNewAccount
+2023-05-03 18:10:58,161 [TestNG-test=Test-2] INFO java.lang.Class - Test Case Passed : navigateToWomenSubMenuJackets
+2023-05-03 18:11:03,123 [TestNG-test=Test-3] INFO java.lang.Class - Starting test for : navigateToWomenSubMenuHoodies
+2023-05-03 18:11:06,284 [TestNG-test=Test-3] ERROR java.lang.Class - Test Case Failed : navigateToWomenSubMenuHoodies
+2023-05-03 18:11:06,284 [TestNG-test=Test-3] ERROR java.lang.Class - Error in navigateToWomenSubMenuHoodies: expected [true] but found [false]
+2023-05-03 18:11:06,469 [TestNG-test=Test-3] INFO java.lang.Class - Saving screenshot for : navigateToWomenSubMenuHoodies
+2023-05-03 18:11:07,171 [main] INFO java.lang.Class - Test report generated
